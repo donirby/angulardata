@@ -1,5 +1,5 @@
 # Attendance Application
-This is an application for developing a data-driven Angular.js Applications using FireBase. It is based on a lynda.com online course: [Building a Data-Driven App with AngularJS by Ray Villalobos]. (http://www.lynda.com/sdk/AngularJS-tutorials/Building-Data-Driven-App-AngularJS/174237-2.html) 
+This is an application for developing a data-driven Angular.js Applications using FireBase. It is based on a lynda.com online course by Ray Villalobos: [Building a Data-Driven App with AngularJS] (http://www.lynda.com/sdk/AngularJS-tutorials/Building-Data-Driven-App-AngularJS/174237-2.html) 
 
 ## Instructions
 1. Make sure you have [node.js](http://nodejs.org/) and [git](http://git-scm.com/) installed on your machine.
